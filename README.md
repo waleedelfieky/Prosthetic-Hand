@@ -1,7 +1,7 @@
 # Prosthetic-Hand
 
 
-# Code is private beacuse a member in our team use it to build a startup called elpo
+# Code is private beacuse a member in our team use it to establish a startup called elpo
 # Linkedin Profile: https://www.linkedin.com/company/i-leav?originalSubdomain=eg
 # Website: https://sites.google.com/view/i-leav/home
 
